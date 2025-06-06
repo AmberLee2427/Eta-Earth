@@ -37,5 +37,7 @@ Eta Earth stuff from Samson but explained as best as I can manage.
  # Authors
 
  **Primary Author:** Samson Johnson
+ 
  **Secondary Authors:** Amber Malaps & Alison Crisp
+ 
  **Corresponding Author:** Amber Malpas (malpas.1@osu.edu)

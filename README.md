@@ -3,8 +3,6 @@ Eta Earth stuff from Samson but explained as best as I can manage.
 
 ## Installation
 
----
-
  This notebook requires several Python packages that can be installed using conda or pip.
  
  Using conda (recommended):

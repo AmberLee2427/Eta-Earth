@@ -1,0 +1,8 @@
+#ignore DS Store
+.DS_Store
+
+#ignore pycache
+__pycache__
+
+#ignore pdfs
+*.pdf

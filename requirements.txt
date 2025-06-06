@@ -1,0 +1,10 @@
+pandas 
+numpy 
+matplotlib 
+scipy 
+lmfit 
+emcee 
+corner 
+jupyterlab 
+ipykernel 
+h5py
